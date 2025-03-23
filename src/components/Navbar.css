@@ -1,0 +1,31 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.logo {
+    height: 40px;
+    padding-bottom: 5px;
+    margin-right: -330px;
+
+}
+
+.actions .btn {
+    margin: 0 5px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4A154B;
+    color: white;
+}
+
+.btn.primary {
+    background-color: #611F69;
+}

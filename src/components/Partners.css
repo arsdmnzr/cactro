@@ -1,0 +1,11 @@
+.partners {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.partners img {
+    height: 50px;
+    margin: 0 10px;
+}
